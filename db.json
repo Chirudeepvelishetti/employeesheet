@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "shiva",
+      "role": "backend developer",
+      "company": "datalync",
+      "image": "https://t4.ftcdn.net/jpg/02/24/86/95/240_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg"
+    },
+    {
+      "id": "2",
+      "name": "chirudeep",
+      "role": "full stack developer",
+      "company": "deloitte",
+      "image": "https://t3.ftcdn.net/jpg/04/97/66/28/240_F_497662812_7rGW6PMBJR9AbrKcGgN5S1luXYTjH92i.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Dheeraj",
+      "role": "QA Analyist",
+      "company": "Webfurth",
+      "image": "https://media.gettyimages.com/id/1369199360/photo/portrait-of-a-handsome-young-businessman-working-in-office.jpg?s=612x612&w=0&k=20&c=ujyGdu8jKI2UB5515XZA33Tt4DBhDU19dKSTUTMZvrg="
+    },
+    {
+      "id": "4",
+      "name": "Anirudh",
+      "role": "java developer",
+      "company": "hcltech",
+      "image": "https://as2.ftcdn.net/v2/jpg/00/88/53/89/1000_F_88538986_5Bi4eJ667pocsO3BIlbN4fHKz8yUFSuA.jpg"
+    },
+    {
+      "id": "5",
+      "name": "sruthik",
+      "role": "network engineer",
+      "company": "Rispostra",
+      "image": "https://img.freepik.com/premium-photo/portrait-happy-young-casual-man-standing_171337-29744.jpg?size=626&ext=jpg&ga=GA1.1.964578009.1717418312&semt=sph"
+    }
+  ]
+}
