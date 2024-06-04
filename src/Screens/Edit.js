@@ -29,7 +29,7 @@ export default function Edit() {
 
     return (
         <div className='d-flex justify-content-center'>
-            <div className='border border-light-5 p-5'>
+            <div className='border border-light-5 rounded-5 p-5'>
                 <form onSubmit={handleSubmit}>
                     <div>
                         <h2>UPDATE FORM</h2>
