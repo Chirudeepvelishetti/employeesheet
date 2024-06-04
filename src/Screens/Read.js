@@ -19,7 +19,7 @@ export default function Read() {
 
     return (
         <div className='d-flex  justify-content-center'>
-        <div className='align-items-center border border-light-5 p-5 mt-5 ' >
+        <div className='align-items-center border border-light-5 rounded-5 p-5 mt-5 ' >
         <div className='pb-5'>
         <h2>EMPLOYEE DETAILS</h2>
         </div>
@@ -37,7 +37,7 @@ export default function Read() {
                     src={data.image} 
                     alt={`${data.name}`} 
                     style={{ width: '10vw', height: 'auto' }} 
-                    className='nrouded-5' 
+                    className='rounded-5' 
                 />
             </div>
             <div className='d-flex p-2 justify-content-center'>
